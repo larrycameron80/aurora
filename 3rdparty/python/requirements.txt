@@ -52,3 +52,5 @@ twitter.common.string==0.3.9
 twitter.common.testing==0.3.9
 twitter.common.zookeeper==0.3.9
 urllib3==1.22
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
+wheel>=0.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
