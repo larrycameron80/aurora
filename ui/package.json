@@ -4,7 +4,7 @@
   "description": "UI project for Apache Aurora",
   "main": "index.js",
   "dependencies": {
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^5.0.0",
     "deep-equal": "^1.0.1",
     "diff": "^3.4.0",
     "es6-shim": "^0.35.3",
